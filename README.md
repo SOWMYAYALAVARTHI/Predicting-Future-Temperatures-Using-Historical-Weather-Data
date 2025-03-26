@@ -1,1 +1,1 @@
-# Predicting-Future-Temperatures-Using-Historical-Weather-Data
+# Time Series Forecasting of Daily Average Temperatures Using Machine Learning
